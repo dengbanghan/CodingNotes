@@ -50,7 +50,7 @@
 - 一个 Tmux 会话中可以包含多个窗口，一个窗口中又可以放置多个窗格。  
     在 Tmux 的会话中，现有的窗口将会列在屏幕下方。  
     下图所示的就是在默认情况下 Tmux 列出现有窗口的方式。    
-    这里一共有三个窗口，分别是“server”、“editor”和“shell”。
+    这里一共有三个窗口，分别是"server"、"editor"和"shell"。
     ![Image2](https://dengbanghan.oss-cn-shenzhen.aliyuncs.com/Image/tmux/Image2.jpeg)
 
 1. 创建窗口：
